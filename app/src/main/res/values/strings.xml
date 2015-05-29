@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aire</string>
+
+    <string name="title_section1">L application</string>
+    <string name="title_section2">Carré</string>
+    <string name="title_section3">Cercle</string>
+    <string name="title_section4">Rectangle</string>
+    <string name="title_section5">Triangle quelconque</string>
+    <string name="title_section6">Triangle rectangle</string>
+    <string name="title_section7">Triangle équilatéral</string>
+    <string name="title_section8">Losange</string>
+    <string name="title_section9">Parallélogramme</string>
+    <string name="title_section10">Trapèze</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
